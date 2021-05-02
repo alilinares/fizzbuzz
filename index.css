@@ -1,0 +1,15 @@
+main{
+    padding-left:1em;
+}
+.fizz{
+    color:blue;
+    font-weight:bold;
+}
+.buzz{
+    color:red;
+    font-weight:bold;
+}
+.fizzbuzz{
+    color:purple;
+    font-weight:bold;
+}
